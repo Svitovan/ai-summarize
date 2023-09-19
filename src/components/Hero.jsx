@@ -24,6 +24,7 @@ const Hero = () => {
       </h1>
       <h2 className="desc">
         Simplify your life with Summize!
+        
       </h2>
     </header>
   );
